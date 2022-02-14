@@ -3,7 +3,7 @@ body,
 html{
       margin: 0;
       padding: 0;
-      min-height: 6000px;
+      min-height: 5500px;
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
@@ -39,7 +39,7 @@ svg {
   
 .scrollElement {
       position: absolute;
-      height: 6000px;
+      height: 5500px;
       width: 100px;
       top: 0;
       z-index: 0;
